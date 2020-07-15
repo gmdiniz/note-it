@@ -20,9 +20,11 @@ Repositório para desenvolvimento de uma aplicação WEB com fins didáticos usa
     pip install django    
 
 # Estrutura de pastas:
-	noteIt->
-    		backend-> gerado por /django-admin startproject backend/
-    		frontend-> gerado por /vue create frontend/
+	app->
+	   - server
+	   - backend
+	   - client
+	   manage.py
 
 # Criação do backend (gerar django app na pasta backend):
     django-admin startproject backend #cria configurações de backend 
