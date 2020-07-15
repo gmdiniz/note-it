@@ -22,9 +22,8 @@ Repositório para desenvolvimento de uma aplicação WEB com fins didáticos usa
 # Estrutura de pastas:
 	app->
 	   - server
-	   - backend
 	   - client
-	   manage.py
+	   - manage.py
 
 # Criação do backend (gerar django app na pasta backend):
     django-admin startproject backend #cria configurações de backend 
