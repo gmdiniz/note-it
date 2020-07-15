@@ -19,13 +19,6 @@ Repositório para desenvolvimento de uma aplicação WEB com fins didáticos usa
     source Script/activate #ativando virtualenv
     pip install django    
 
-# Estrutura de pastas:
-	noteit>
-		project>
-			-project
-			-client
-			-manage.py
-
 # Criação do backend (gerar django app na pasta backend):
     django-admin startproject backend #cria configurações de backend 
     python manage.py migrate (rodar dentro de backend) #cria banco de teste
