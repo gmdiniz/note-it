@@ -20,8 +20,8 @@ Repositório para desenvolvimento de uma aplicação WEB com fins didáticos usa
     pip install django    
 
 # Estrutura de pastas:
-app->
-   - backend
+app>
+   backend>
 	-server
 	- client
 	- manage.py
