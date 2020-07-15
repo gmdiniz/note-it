@@ -20,9 +20,9 @@ Repositório para desenvolvimento de uma aplicação WEB com fins didáticos usa
     pip install django    
 
 # Estrutura de pastas:
-	app>
-		backend>
-			-server
+	noteit>
+		project>
+			-project
 			-client
 			-manage.py
 
@@ -36,4 +36,4 @@ Repositório para desenvolvimento de uma aplicação WEB com fins didáticos usa
 
 # Criação do frontend (gerar vue na past frontend):
     sudo npm install -g @vue/cli
-    vue create frontend (rodar comando na pasta app)
+    vue create frontend (rodar comando na pasta client)
