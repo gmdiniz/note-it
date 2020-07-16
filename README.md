@@ -4,6 +4,7 @@ Repositório para desenvolvimento de uma aplicação WEB com fins didáticos usa
 # Estudar:
     -git
     -virtualenv
+    -ecmaScript
     -django
     -python web
     -vue 
