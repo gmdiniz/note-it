@@ -1,18 +1,6 @@
 # noteIt
 Repositório para desenvolvimento de uma aplicação WEB com fins didáticos usando django + vue
 
-# Estudar:
-    -git
-    -virtualenv
-    -ecmaScript
-    -django
-    -python web
-    -vue 
-    -javascript
-    -mongodb
-    -css
-    -scss
-
 # Criação do virtualenv:
     instalar python 3.7.2
     instalar pip
